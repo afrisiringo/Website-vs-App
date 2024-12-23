@@ -4,5 +4,5 @@ Conducted detailed statistical analysis to evaluate the effectiveness of a mobil
 
 Repository Contents:
 
-Raw Data: Located in ```Ecommerce Customers```
-Analysis Notebook: Detailed analysis can be found in ```analysis.ipynb```
+- Raw Data: Located in ```Ecommerce Customers```
+- Analysis Notebook: Detailed analysis can be found in ```analysis.ipynb```
